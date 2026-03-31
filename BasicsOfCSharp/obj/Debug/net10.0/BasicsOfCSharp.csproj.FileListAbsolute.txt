@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\bin\Debug\net10.0\BasicsOfCSharp.exe
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\bin\Debug\net10.0\BasicsOfCSharp.deps.json
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\bin\Debug\net10.0\BasicsOfCSharp.runtimeconfig.json
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\bin\Debug\net10.0\BasicsOfCSharp.dll
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\bin\Debug\net10.0\BasicsOfCSharp.pdb
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\BasicsOfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\BasicsOfCSharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\BasicsOfCSharp.AssemblyInfo.cs
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\BasicsOfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\BasicsOfCSharp.sourcelink.json
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\BasicsOfCSharp.dll
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\refint\BasicsOfCSharp.dll
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\BasicsOfCSharp.pdb
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\BasicsOfCSharp.genruntimeconfig.cache
+C:\Users\User\Desktop\DotNet_2082\dotnet-programming\BasicsOfCSharp\obj\Debug\net10.0\ref\BasicsOfCSharp.dll
