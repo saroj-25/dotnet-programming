@@ -6,10 +6,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        CSharpBasics basic  = new CSharpBasics(); 
+        // CSharpBasics basic  =  new CSharpBasics(); 
         Arrays array = new Arrays();
 
-        basic.FirstProgram(); 
+        // basic.FirstProgram(); 
         array.SecondProgram();
 
 
