@@ -106,6 +106,28 @@ class Arrays
                 Console.WriteLine();
             }
 
+            //jagged array 
+
+            int[][] jaggedArray = new int[][]
+            {
+                new int[]{1,2,3,4,5}, 
+                new int[] {6,7}, 
+                new int[] {8,9}    
+            };
+
+            Console.WriteLine("\n Jagged arrray:");
+
+            for(int i=0 ; i< jaggedArray.Length;i++)
+            {
+                Console.WriteLine("Row"+(i+1) + ":");
+                for(int j = 0; j<jaggedArray[i].Length; j++)
+                {
+                    Console.WriteLine(jaggedArray[i][j]+ " ");
+                }
+                Console.WriteLine();
+
+            }
+
 
 
 
